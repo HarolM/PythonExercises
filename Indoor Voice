@@ -1,0 +1,4 @@
+command = input("Enter text here: " ).lowercase()
+output = command
+
+print(command)
