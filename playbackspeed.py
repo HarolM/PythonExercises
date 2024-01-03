@@ -2,6 +2,6 @@
 
 text = input("Enter text here: ").replace(" ", "...")
 
-ouput = text
+output = text
 
 print(output)
